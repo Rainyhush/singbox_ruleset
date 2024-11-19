@@ -1,0 +1,28 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cloudpub.cn",
+        "founderfx.com.cn",
+        "fangzhengshufa.com",
+        "fzdzyun.com",
+        "founder.com.cn",
+        "study-cloud.cn",
+        "founderss.cn",
+        "fzdzyun.com.cn",
+        "fzyun.net",
+        "foundertype.com",
+        "w2press.cn",
+        "newaircloud.com",
+        "study-cloud.com",
+        "founderfx.cn",
+        "xiezixiansheng.com",
+        "wisestcloud.com",
+        "fzyun.cn",
+        "cloudpress.cn",
+        "fzdzyun.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

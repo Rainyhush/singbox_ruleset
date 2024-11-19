@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "voddazn"
+      ],
+      "domain_suffix": [
+        "s.yimg.jp",
+        "dca-ll-voddazn-dznvodjp.s.llnwi.net",
+        "dcalivedazn.akamaized.net",
+        "dazndn.com",
+        "dca-ll-livedazn-dznlivejp.s.llnwi.net",
+        "sentry.io",
+        "dc2-vodhls-perform.secure.footprint.net",
+        "d151l6v8er5bdm.cloudfront.net",
+        "indazn.com",
+        "dazn-api.com",
+        "logx.optimizely.com",
+        "intercom.io",
+        "dazn.com",
+        "control.kochava.com",
+        "dcblivedazn.akamaized.net",
+        "d1sgwhnao7452x.cloudfront.net",
+        "indaznlab.com"
+      ]
+    }
+  ],
+  "version": 2
+}
