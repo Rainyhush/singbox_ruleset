@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "enet16.cn",
+        "enet369.com",
+        "enet.com.cn",
+        "ezhu.com",
+        "xingzhiheyi.com",
+        "enet16.com",
+        "mydor.com",
+        "ciweekforum.com",
+        "enet16.com.cn",
+        "enet16.net",
+        "ezhu.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "wasu.cn",
+        "hzman.net",
+        "wasumedia.cn",
+        "hzdtv.tv",
+        "hzcnc.com",
+        "wasu.tv"
+      ]
+    }
+  ],
+  "version": 2
+}

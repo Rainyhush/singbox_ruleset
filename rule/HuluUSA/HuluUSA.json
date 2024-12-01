@@ -1,0 +1,66 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "hulufree.com",
+        "assetshuluimcom-a.akamaihd.net",
+        "hulu.playback.edge.bamgrid.com",
+        "hulu.com",
+        "mushymush.tv",
+        "hooloo.tv",
+        "hu1u.com",
+        "freehulu.com",
+        "hoolu.tv",
+        "payhulu.com",
+        "wwwhuluplus.com",
+        "hulunetwork.com",
+        "hulustream.com",
+        "huluitaly.com",
+        "hulugermany.com",
+        "prod.hjholdings.tv",
+        "hulu.hb.omtrdc.net",
+        "myhulu.com",
+        "originalhulu.com",
+        "huluinstantmessenger.com",
+        "huluspain.com",
+        "huluusa.com",
+        "cws-hulu.conviva.com",
+        "huloo.tv",
+        "huluad.com",
+        "findyourlimits.com",
+        "hulu.tv",
+        "hulugo.com",
+        "112263.com",
+        "hoolu.com",
+        "hulugans.com",
+        "hulupremium.com",
+        "hulupurchase.com",
+        "registerhulu.com",
+        "huloo.cc",
+        "hulucall.com",
+        "hulunet.com",
+        "huluplus.com",
+        "thehulubraintrust.com",
+        "hulusports.com",
+        "huluasks.com",
+        "joinmaidez.com",
+        "callhulu.com",
+        "hulurussia.com",
+        "hulu.us",
+        "hulutv.com",
+        "huluapp.com",
+        "huluqa.com",
+        "huluim.com",
+        "hulu.sc.omtrdc.net",
+        "huluteam.com",
+        "huluaction.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.hulu.plus"
+      ]
+    }
+  ],
+  "version": 2
+}
